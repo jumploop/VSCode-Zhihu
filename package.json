@@ -387,7 +387,7 @@
 		"pug": "^3.0.3",
 		"request": "^2.88.2",
 		"request-promise": "^4.2.5",
-		"tough-cookie": "^4.1.3",
+		"tough-cookie": "^4.1.4",
 		"tough-cookie-filestore": "0.0.1",
 		"zhihu-encrypt": "^1.0.0",
 		"zhihu-markdown": "^1.0.3"
